@@ -1,0 +1,74 @@
+.footer {
+    min-height: 250px;
+    background-color: #0a121f;
+}
+
+
+
+.info-heading {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: $font-color;
+    text-transform: uppercase;
+    padding-top: 48px;
+}
+
+.info-txt {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: $font-color;
+    padding-left: 10px;
+}
+
+.mail {
+    margin-top: 33px;
+}
+
+.phone {
+    margin-top: 25px;
+}
+
+.adress {
+    margin-top: 26px;
+}
+
+.about-dsc {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 16px;
+    color: $font-color;
+    opacity: 0.6;
+    padding-top: 33px;
+    width: 261px;
+}
+
+.adress-txt {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: $font-color;
+    padding-top: 33px;
+}
+
+.footer-link {
+    margin-top: 24px;
+}
+
+.input {
+    margin-top: 25px;
+}
+
+.button {
+    width: 80px;
+    font-family: 'Open Sans', sans-serif;
+}

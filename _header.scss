@@ -1,0 +1,27 @@
+.header {
+    background-color: #0a121f;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.header-link {
+    padding: 3%;
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: $font-color;
+    text-decoration: none;
+
+}
+
+.header-link:hover {
+    background-color: #3A68B8;
+    border-radius: 5px;
+}
